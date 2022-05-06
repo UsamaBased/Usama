@@ -1,3 +1,13 @@
 .tos {
   font-size: 10px;
 }
+
+.funny { 
+  display: flex;
+}
+
+.achievements {
+  border-style: solid;
+  border-color: black;
+  padding: 1%;
+}
