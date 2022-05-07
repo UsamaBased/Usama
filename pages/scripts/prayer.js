@@ -4,6 +4,10 @@ function pray() {
   
   if (prayer == null) {
     localStorage.setItem("Prayers", parseInt(0));
+    console.log("Value is null")
+  }
+  if (isNaN(prayer)) {
+    localStorage.setItem("Prayers", parseInt(1));
   }
   else {
     localStorage.setItem("Prayers", prayer+1);
