@@ -1,4 +1,4 @@
-<h1>Usama Fan Club</h1>
+# Usama Fan Club
 
-We love Usama <3<br><br>
-Free free to skid or contribute<br>
+Official Usama Fan Club\
+We <3 Usama
